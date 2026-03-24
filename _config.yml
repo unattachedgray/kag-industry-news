@@ -1,0 +1,6 @@
+title: Kennedy Access Group — Industry News
+description: Daily immigration & labor market intelligence reports
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
