@@ -17,3 +17,4 @@ Daily immigration & labor market intelligence reports, auto-generated and archiv
 ---
 
 *Reports are generated daily by automated research agents and archived here for reference.*
+| 2026-03-31 | [immigration & labor market](reports/2026/2026-03-31-immigration-labor-kr.md) | Korean |
