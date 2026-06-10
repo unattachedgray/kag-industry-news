@@ -65,6 +65,7 @@ Daily immigration & labor market intelligence reports, auto-generated and archiv
 | 2026-06-05 | [immigration & labor market](reports/2026/2026-06-05-immigration-labor-kr.md) | Korean |
 | 2026-06-08 | [immigration & labor market](reports/2026/2026-06-08-immigration-labor-kr.md) | Korean |
 | 2026-06-09 | [immigration & labor market](reports/2026/2026-06-09-immigration-labor-kr.md) | Korean |
+| 2026-06-10 | [immigration & labor market](reports/2026/2026-06-10-immigration-labor-kr.md) | Korean |
 
 ---
 
