@@ -7,7 +7,24 @@ language: ko
 # Kennedy Access 일일 브리핑 — 2026년 10월 20일 (화요일)
 **Immigration & Labor Market Intelligence (Korean Edition)**
 
-> 대상 기간: 10/19(월) 브리핑 이후 **10/19(월) 오전~10/20(화) 오전**(미 동부시간). **TPS 우크라이나·수단: USCIS가 10/19 국가별 페이지에 “발표 전까지 근로허가 포함 보호 유지” 공식 문구 게시**(Last Updated 10/19) — 다만 **새 만료일·FR 고시·I-9 Central 신규 지침은 여전히 없음**. **Homan HSI 사업장 단속안**은 Fox 인터뷰 원문 추가 보도(“이번 주 또는 다음 주 장관 검토”). **NAHB 10월 HMI 29**(2012년 6월 이후 최저) — 빌더 **3분의 1+** “지난 한 달 지역 내 이민 단속, 공사 지연·합법 근로자 결근”. 한국 정부는 **MASGA($150B) 이행 조건으로 ‘조선업 전용 비자 쿼터’** 요구(서울경제·코리아타임스). 대법원은 **아이오와 이민법(Bird v. Iowa Migrant Movement)에 SG 의견 요청**. 오늘자 FR(**82건**)에 **DHS USCIS·DOL 이민 규칙 없음**. **11월 VB 미게시**(트래커 10/20 08:00 UTC). 핵심은 **TPS 공식 ‘유지’ 문구 · 사업장 단속안 · 건설 심리 14년 최저 · 조선 비자 쿼터 · Chart B 접수 창 11일 · EAD 자동연장 폐지 Day 7 · PERM 정지 Day 12**.
+> 대상 기간: 10/19(월) 브리핑 이후 **10/19(월) 오전~10/20(화) 오전**(미 동부시간). **TPS 우크라이나·수단: USCIS가 10/19 국가별 페이지에 “발표 전까지 근로허가 포함 보호 유지” 공식 문구 게시**(Last Updated 10/19) — 다만 **새 만료일·FR 고시·I-9 Central 신규 지침은 여전히 없음**. **Homan HSI 사업장 단속안**은 Fox 인터뷰 원문 추가 보도(“이번 주 또는 다음 주 장관 검토”). **NAHB 10월 HMI 29**(2012년 6월 이후 최저) — 빌더 **3분의 1+** “지난 한 달 지역 내 이민 단속, 공사 지연·합법 근로자 결근”. 한국 정부는 **MASGA($150B) 이행 조건으로 ‘조선업 전용 비자 쿼터’** 요구(서울경제·코리아타임스). 대법원은 **아이오와 이민법(Bird v. Iowa Migrant Movement)에 SG 의견 요청**. 오늘자 FR(**82건**)에 **DHS USCIS·DOL 이민 규칙 없음**. **11월 VB 미게시**(트래커 10/20 08:00 UTC). 핵심은 **TPS 공식 ‘유지’ 문구 · 사업장 단속안 · 건설 심리 14년 최저 · 조선 비자 쿼터 · Chart B 접수 창 11일 · EAD 자동연장 폐지 Day 7 · PERM 정지 Day 12**. 🆕 **경쟁·업계 동향** 신설: **2순회 CLINIC 임시 결정**(75개국 정책 무효 유지·재심리 명령만 임시 stay) · BDV Q3 승인 실적 공개(자사 주장) · SeaBreezee 창고·물류 진출 · Pilgrim’s 조지아 채용·증설 · PA 가금 운송업체 ICE 체포 후 업계 USDA 서한.
+
+---
+
+## 📊 EB-3 EW 대시보드 — KEY METRICS
+
+| 지표 | 현재 | 직전 | 변화 | 출처·기준일 |
+|---|---|---|---|---|
+| EW(Other Workers) ROW Final Action / Filing | **01JAN22 / 01JUN22** (10월호, 멕시코·필리핀 동일) · 11월호 미게시 | 01APR22 / 01AUG22 (9월호, ROW) | 🔴 −3개월 / −2개월 | [DOS VB 10월호](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-october-2026.html) · [USCIS Chart B](https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-priority-dates/when-to-file-your-adjustment-of-status-application-for-family-sponsored-or-employment-based-129) |
+| PERM 분석관 큐 · 평균 심사 | December 2025 · **336일** | December 2025 · 336일 | 변동 없음 | [DOL FLAG](https://flag.dol.gov/processingtimes) (큐 as of 10/05 · 평균 8월 결정분) |
+| PWD (PERM) 처리 월 | June 2026 | June 2026 | 변동 없음 | [DOL FLAG](https://flag.dol.gov/processingtimes) (as of 9/30) |
+| I-140 EW (USCIS) | EW 별도 수치 미확보 · 참고: E31·E32 ~4개월(80th pct) | — | — | [USCIS 도구](https://egov.uscis.gov/processing-times) (FactFiled 9/18 캡처) |
+| 75개국 이민비자 중단 소송 (CLINIC v. Rubio) | 정책 무효(vacatur) **유지** · 2순회 단독 판사 10/19: **정책만으로 거부된 사건의 재심리 명령 부분만 임시 stay** · 3인 재판부 미결정 | 2순회 stay 미결정 | 🔴 부분 임시 stay | [Maki Law](https://makilawfirm.com/immigration-updates/75-country-visa-ban-clinic-v-rubio/) · [CB Immigration](https://www.cbimmigrationlaw.com/news/immigrant-visa-appointments-rescheduled) |
+| 이민비자 인터뷰 | 9/10 국무부 전문(26 STATE 88862) **처리·발급 재개 지시** · 공적부조 교육에 따른 일정 조정 지속, 공관별 상이 | — | 변동 없음 | [AILA](https://www.aila.org/library/dos-cable-on-the-vacatur-of-immigrant-visa-and-diversity-visa-issuance-pauses) · [American Visa Guide (10/16 검토)](https://www.americanvisaguide.com/september-2026-update) |
+| H-2B FY27 H1 / 보충 | 한도 도달(최종 접수 9/4) / FY27 배정 **미발표** | 동일 | 변동 없음 | [USCIS](https://www.uscis.gov/newsroom/alerts/uscis-reaches-h-2b-cap-for-first-half-of-fy-2027) · [DOL FLAG](https://flag.dol.gov/processingtimes) (COB 10/15) |
+| 경쟁사 공개 가격 (주간) | BDV $19,175 / $19,185 · eb3.work $13,500 | 동일 | 변동 없음 | [BDV 가격](https://www.bdvsolutions.com/eb-3-visa/unskilled-eb-3-visa-pricing) · [eb3.work](https://eb3.work/services/) (10/20 확인, 자사 공시) |
+
+> 수치는 표기된 기준일 기준. 오늘 재확인하지 못한 항목은 “변동 없음(기준일)”으로 표시. EW 대기는 우선일 기준이며 PERM·I-140 소요가 별도로 더해짐.
 
 ---
 
@@ -44,6 +61,7 @@ language: ko
 - **Chart A (Final Action)**: EB-2 World **01JAN25**, EB-3 World **15MAY24** — 승인·비자 발급 기준.
 - **Chart B (Dates for Filing)**: EB-2 World **15MAR26**, EB-3 World **01AUG24** — USCIS 10월 Chart B → 10월 중 I-485 접수 창(남은 기간 **11일**, 10/31까지).
 - **한국 chargeability**: World 컷오프 = 한국 컷오프.
+- **EB-3 Other Workers(EW, 비숙련)**: ROW·멕시코·필리핀 FA **01JAN22** / DFF **01JUN22** — 9월호 대비 ROW 기준 **−3개월 / −2개월**. 중국 FA 01OCT19 · DFF 01OCT20, 인도 FA 01JAN14 · DFF 15JAN15. EW 연간 한도는 최대 10,000건(FY2027 NACARA 차감 약 150). 업계 안내는 “청원부터 입국까지 3~5년”(Vanteo, 자사 안내), “지금 시작하면 2030년 입국 창”(SeaBreezee, 자사 안내). ([DOS VB 10월호](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-october-2026.html) · [USCIS Chart B](https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-priority-dates/when-to-file-your-adjustment-of-status-application-for-family-sponsored-or-employment-based-129) · [Vanteo 9/24](https://vanteo.com/vanteo-blog/eb-3-other-worker-visa) · [SeaBreezee 9/21](https://www.seabreezee.com/post/316-000-unfilled-warehouse-and-logistics-jobs-in-2026-the-structural-fix-beyond-temp-labor))
 - **11월 전망**: 로펌·해외 컨설팅 예측은 공식 근거 아님. **USCIS 11월 차트 선택(Chart A/B)도 미발표**. 10월 Chart B 대상자는 **10/31 이전 접수**가 안전.
 - **⚠ EAD 자동연장 폐지 최종 규칙(10/14 발효, Day 7)과 Chart B**: Chart B로 I-485와 함께 받는 **C09 EAD**는 갱신 시 **자동연장 없음** — DHS RIA상 영향 고용주 약 **1,700~2,800곳**, 고용주 이직비용 **$312.1M**·생산성 손실 **$138.1M**(18개월) 추정. ([FR 2026-20955](https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents)) **I-485와 I-765 동시 제출** 원칙 유지.
 - **⚠ 취업이민 I-485 인터뷰 확대 전언(Bloomberg Law 10/15)**: 공식 통계 아님 — 서류 일관성(재직·급여·직무) 사전 점검.
@@ -135,7 +153,7 @@ language: ko
 - **🆕 TPS 공식 ‘유지’ 문구(BREAKING 1)** · **🆕 HSI 단속안 원문(BREAKING 2)**.
 - **🆕 대법원 *Bird v. Iowa Migrant Movement for Justice*(No. 26-49, 10/19 order list)**: 아이오와 SF 2340(2024, 재입국 등 주(州) 범죄화·주 법원 ‘귀환 명령’)을 막은 8순회 예비금지명령에 대한 상고 청원 — **법무차관(SG) 의견 요청(CVSG)**. **상고 허가·집행 허용 아님**. 같은 날 이민 사건 상고 허가 없음. ([Supreme Court — Order List 10/19](https://www.supremecourt.gov/orders/courtorders/101926zor_q8l1.pdf) · [Docket 26-49](https://www.supremecourt.gov/docket/docketfiles/html/public/26-49.html) · [The American Quorum 10/20](https://www.theamericanquorum.com/supreme-court-seeks-federal-views-on-iowa-immigration-enforcement-law/))
 - **H-1B $100K — 정정·보완**: N.D. Cal. *Global Nurse Force* 정부 10/9 제출물은 ① 9순회 항소 통지 ② **지방법원 소송 절차 정지(stay of proceedings)** 신청 — nbyula 정리상 **9/30 명령 자체의 정지가 아니라 소송 일정(답변 10/14·공동 계획 10/20·CMC 10/27) 정지** 요청이며, 원고 답변 **10/23**·정부 재답변 **10/30**. 정부는 “vacatur는 9순회 심리 중 유지”라고 서면 진술. 일부 매체(VisaVerge·Samper)는 9순회 stay 신청 계류로 기술 — **어느 쪽이든 현재 징수 불가**. ([nbyula](https://nbyula.com/news/usa/h1b-fee-ruling-appeal/) · [VisaVerge](https://www.visaverge.com/h1b/trump-administration-appeals-second-court-loss-100000-h-1b-fee/) · [Samper Law](https://www.samperlaw.com/insights/immigration-updates/h1b-100000-fee-second-court-blocks-extension))
-- **75개국 IV 정지(CLINIC v. Rubio)**: S.D.N.Y. vacatur 유지 · **2순회 stay 미결정** — 정부 재답변 **10/15 제출**, Sullivan 판사가 임시 행정 stay 신청을 단독 심리 중(Maki Law). **한국 비대상**. ([Maki Law](https://makilawfirm.com/immigration-updates/75-country-visa-ban-clinic-v-rubio/) · [Justia — 2d Cir. 26-2573](https://dockets.justia.com/docket/circuit-courts/ca2/26-2573))
+- **🆕 75개국 IV 정지(CLINIC v. Rubio) — 2순회 임시 결정(10/19)**: Sullivan 판사 단독 결정으로 **정책 무효(vacatur)·확인판결은 stay 거부(유지)**, 다만 **정책만을 이유로 한 개별 거부의 무효·재심리 명령 부분은 임시 stay**(영사 불심사 원칙 인용) — 정부 stay 신청은 **3인 재판부 회부, 미결정**. 정부는 지방법원에 원고 측 집행 명령안(ECF 120) 심리 보류 요청(ECF 126), 원고 반대(ECF 127) — 원고 서한은 정부 선언서를 인용해 약 43,000건 중 **706건만 재결정, 약 60% 재거부**라고 주장. 지방법원 10/20 오전 기준 미결정. **한국 비대상**. ([Maki Law](https://makilawfirm.com/immigration-updates/75-country-visa-ban-clinic-v-rubio/) · [CB Immigration](https://www.cbimmigrationlaw.com/news/immigrant-visa-appointments-rescheduled) · [Justia — 2d Cir. 26-2573](https://dockets.justia.com/docket/circuit-courts/ca2/26-2573))
 - **🆕 ‘메가 마스터’ 이민법원 심리 FOIA 소송(N.D. Cal., 10/15 제소, 10/19~20 보도)**: SF 베이에어리어 변호사위원회·National Immigration Project — 한 심리에 **100건+** 배정, 콩코드 법원 6~9월 평균 **80명/회**, 9월 **17회**(법정 관찰자 집계). EOIR 2017 기준은 **25명 이하**. 불출석 시 궐석 추방명령. ([Mission Local 10/19](https://missionlocal.org/2026/10/san-francisco-mega-master-immigration-hearings-records-lawsuit/) · [SF Focal 10/20](https://focalnews.org/san-francisco-ca/local/bay-area-advocates-seek-federal-records-on-mass-immigration-court-hearings))
 - **🆕 BIA 선례 *Matter of J-E-D-C-*, 30 I&N Dec. 162(BIA 2026)**: 궐석 추방명령 재개 신청의 진술서(affidavit) 신빙성을 이민판사가 **평가 가능**(“명백히 믿기 어려운 경우 외 사실로 수용” 9순회 요건과 관련) — 불출석 후 구제 문턱 상승(정성 판단). ([DOJ EOIR — J-E-D-C-](https://www.justice.gov/eoir/media/1466896/dl?inline=))
 - **대법원 *City of Baltimore v. Texas*(26A500)**: 텍사스 답변 **10/22 16:00 EDT**(2일). ([SCOTUSblog](https://www.scotusblog.com/cases/city-of-baltimore-maryland-v-texas/))
@@ -168,6 +186,32 @@ language: ko
 - **[ManpowerGroup Q3](https://investor.manpowergroup.com/news-releases/news-release-details/manpowergroup-reports-3rd-quarter-2026-results)**: 매출 $4.84B(불변통화 +5.2%) · “inflection point”.
 - **EEOC v. Sibitalent**(“ONLY H1B” 문구) 지속. ([StaffingIntel](https://www.staffingintel.com/story/eeoc-sues-sibitalent-corp-for-alleged-h-1b-only-hiring-preference))
 - **시사점**: 산업 스태핑 통합(Elwood) + 산업 수요 +17% 구간이 **HSI 단속안·건설 단속**과 겹침 — 파견 계약에 **I-9 재점검·SSN 불일치 SOP·산재보험 증빙** 조건화. 의료 스태핑은 장기 수요 확실, 단 TPS·EAD 공백 인력 관리 필요.
+
+---
+## 경쟁·업계 동향 — COMPETITION & INDUSTRY
+
+> EB-3 비숙련(EW) 리크루팅 시장의 경쟁사·고용주·가격·평판 동향. 회사 수치는 **(자사 주장)**, 소송·민원 내용은 **(미확정 주장)**으로 표시. **KAG 시사점**은 사실이 아닌 분석.
+
+### 경쟁사 동향
+- **BDV Solutions(Vanteo 계열) Q3 2026 뉴스레터 — 7~9월 승인 실적 공개**: 노동허가(LC) **436건** · I-140 **247건** · I-765 35건 · 영주권/이민비자 **177건** (자사 주장). 9/22 기준 PERM 큐 December 2025, 10월 EW 후퇴(FA −3개월·DFF −2개월), 9/18 시행 공적부조 지침 변경을 고객에게 안내. Vanteo 고용주용 글(9/24)은 EB-3 Other Worker를 “청원부터 입국까지 3~5년”으로 안내. ([BDV Q3 2026 뉴스레터](https://www.bdvsolutions.com/bdv-newsletter-q3-2026-edition) · [Vanteo 9/24](https://vanteo.com/vanteo-blog/eb-3-other-worker-visa))
+  - **KAG 시사점**: 경쟁사가 분기별 단계 승인 건수를 정기 공개하는 흐름 — 시장 비교 기준이 ‘주장’에서 ‘단계별 실적 수치’로 이동 중. 공적부조 지침 변경 이후 신청자 문의가 늘 가능성이 커, 대기 기간·공적부조 안내 콘텐츠 수요가 예상됨.
+- **SeaBreezee — 창고·물류 고용주로 영업 확대(9/21 블로그)**: BLS JOLTS 인용, 7월 운송·창고·유틸리티 미충원 **316,000건**(구인율 4.2%)을 근거로 피커·패커·입출고 직무를 EB-3 Other Workers 대상으로 제시. 고용주 비용은 “근로자 출근 후 1인당 **$2,000**, 선수금 없음”이라고 하면서 같은 글의 다른 문단에서는 “채용 수수료 없음”이라고 적어 표현이 엇갈림 (자사 안내). EW 신규 착수는 “2030년 입국 창”으로 안내. ([SeaBreezee 9/21](https://www.seabreezee.com/post/316-000-unfilled-warehouse-and-logistics-jobs-in-2026-the-structural-fix-beyond-temp-labor) · [SeaBreezee 10월 VB 글](https://www.seabreezee.com/post/visa-bulletin-update-october-2026-is-out))
+  - **KAG 시사점**: 고용주 과금형 경쟁사가 육가공·호텔에서 창고·물류로 고용주 풀을 넓히는 중 — 제조·창고 고용주 영업에서 경쟁이 늘 전망. 고용주 비용 기준선은 1인당 $0~2,000 구간으로 형성.
+
+### 고용주·PERM
+- **Pilgrim’s 조지아 — 생산직 채용·증설 지속**: 더글러스 GA 가공 생산직 시급 **$17.95**(2·3교대 +$2, 10/1 게시), 캔턴 GA 부화장 $19.29. 엘리제이 GA 공장 **$7,500만 증설**(6/16 발표, 채터누가 도계 라인 폐쇄로 348명 영향). 워커 카운티(라파예트) **$4억 조리식품 공장** — 2025-11-13 착공, 완전 가동 시 **630명+**, **2027년 채용 개시** 예정. 조지아 내 약 7,500명·생산시설 7곳 (자사 발표). ([Pilgrim’s 채용 — Douglas](https://jobs.pilgrims.com/jobs/18300605-production-hourly) · [Pilgrim’s 채용 — Canton](https://jobs.pilgrims.com/jobs/18304476-hatchery-laborer) · [Feedstuffs — Ellijay](https://www.feedstuffs.com/agribusiness-news/pilgrim-s-investing-75m-in-ellijay-poultry-facility) · [Times Free Press 6/16](https://www.timesfreepress.com/news/2026/jun/16/pilgrims-to-close-part-of-chattanooga-poultry/) · [JBS/Pilgrim’s — Walker County 착공](https://jbsfoodsgroup.com/articles/pilgrim-s-breaks-ground-on-new-prepared-foods-facility-in-walker-county-georgia))
+  - **KAG 시사점**: 조지아 가금 업계의 신규 정원이 2027년부터 열리지만 신규 EW 일정은 수년 단위 — 단기 충원이 아니라 **장기 근속 인력 파이프라인**으로 제안할 시점. 현지 생산직 임금(시급 $17~19대)이 고용주 제시임금 논의의 비교 기준이 될 전망.
+- **펜실베이니아 가금 운송업체 Melhorn 직원 17명 ICE 체포 → 농축산 단체, USDA에 비자 개편 요구 서한(10/10 보도)**: 8/21·8/31·9/17 새벽 회사 차량(직원 수송 밴) 정차 단속으로 체포. PennAg 등은 연중 가동 업종(낙농·가금) 인력 부족과 조류독감 대응 차질을 우려하며 서한 준비, 대평원 육가공 단체도 지난달 USDA에 유사 서한을 냈다고 보도. G.T. Thompson 하원의원(R-PA)은 연중 가금·축산 작업으로 H-2A를 넓히는 법안을 발의. 일부 체포자가 합법 체류였다는 업계 주장은 ICE가 답변하지 않음 (미확정 주장). ([LancasterOnline 10/10](https://lancasteronline.com/news/local/pa-ag-industry-lobbying-usda-congress-for-reform-after-melhorn-poultry-worker-arrests/article_e1426f0e-fc49-4d28-b131-da5e7894effc.html))
+  - **KAG 시사점**: 가공업계가 ‘합법·장기 인력’ 수요를 공개적으로 제기 — 연중 가동 가금·육가공에서 EB-3 수요를 뒷받침. 다만 H-2A 연중 확대 법안이 진전되면 일부 수요가 임시비자로 옮겨갈 수 있어 추적 필요.
+
+### 가격·마케팅
+- **공개 가격 주간 점검(10/20 확인) — 변동 없음**: BDV 표준 **$19,175**(계약 $6,000 → LC 승인 후 $5,195 → 우선일 도래/I-140 승인 후 $7,980) · 분할 **$19,185**($4,500 + 월 $445 × 33), 동반가족 AOS $1,940(14세 이상)/$1,450, 영사 $1,190. eb3.work **$13,500**(5회 분할), 전체 소요 “약 48개월” 안내 (각 자사 공시). ([BDV 가격](https://www.bdvsolutions.com/eb-3-visa/unskilled-eb-3-visa-pricing) · [eb3.work](https://eb3.work/services/))
+  - **KAG 시사점**: 공개 가격대 **$13,500~19,185**가 유지되며 신청자 비교 기준선이 안정적. 분할 납부·단계별 청구가 표준 판매 방식으로 굳어지는 중.
+
+### 평판·민원
+- **Doe v. Omega Compliance Solutions(S.D. Cal., 3:25-cv-03613) — “EB-3 사건번호”를 내세운 수수료 수취 의혹**: 멕시코 상용 트럭 운전사 원고 29명(원고 측 변호인은 비슷한 피해를 호소하는 45명+ 대리), 리크루터가 합법 취업·EB-3 절차·영주권을 약속하고 “EB-3 사건번호”를 제시한 뒤 **$3,000 ‘활성화’ 수수료**를 받고 여권을 보관했다는 주장. 인신매매·RICO·FLSA 청구, 피고 운송사들은 책임 부인·기각 신청 (**미확정 주장**, FreightWaves 9/24 보도). ([FreightWaves](https://www.freightwaves.com/news/45-mexican-truck-drivers-accuse-us-recruiter-carriers-of-forced-labor-scheme))
+  - **KAG 시사점**: ‘사건번호 제시 + 선납 수수료’ 유형 의혹이 업계 전반의 신뢰 비용을 키움 — 신청자가 PERM·I-140 접수 사실을 직접 확인할 수 있는 투명한 절차가 시장 차별 요소가 될 전망.
+- 브라질·베트남·한국 채널: 오늘 새로 확인된 EB-3 리크루터 민원·수사 보도 **없음**.
 
 ---
 ## 단속 및 Compliance — ENFORCEMENT
@@ -227,6 +271,7 @@ language: ko
 | 운송/물류 | **HIGH** | Beige Book — CDL 운전자 공급 축소 | 정성 |
 | 제조 | **HIGH** | Deference 삭제(L-1·H-1B RFE +64일) · 산업 스태핑 +17% | 🆕 DOL Reskill $95.5M(제조 포함) |
 | 농업 | **중–HIGH** | H-2A 17일 / 32일 · 10/4~10 접수 357건 | CA 센트럴밸리 단속 |
+| 육가공·가금 | **HIGH** | 🆕 PA Melhorn 17명 ICE 체포·업계 USDA 서한 · EW FA 01JAN22 · PERM FY25 육류·가금 손질공 6,167건(직종 3위) | 🆕 Pilgrim’s GA 생산직 시급 $17.95 · 워커 카운티 630명 2027년 채용 예정 |
 | IT/엔지니어링 | **보통→고비용** | Deference RIA · $100K 차단 · PERM 정지 Day 12 | TechServe: IT −0.08% m/m |
 | IT 아웃소싱 | **HIGH** | PERM 정지 Day 12 · H-1B 신분 영향 없음 | Wipro 등 “중대 영향 없음” |
 | 고등교육 | **HIGH** | OPT 수수료(제안, 11/9) · 유학·취업 비자 −30%(NYT) | 유치 리스크 |
@@ -242,7 +287,7 @@ language: ko
 
 ### 최근 (10월)
 - **10/20 (오늘 화요일)**: FR(**82건**) — **DHS USCIS·DOL 이민/노동 규칙 없음**(DHS DeepSeek 배제 명령·SES PRB · CBP 인증). 11월 VB 미게시(트래커 08:00 UTC). Chart B 창 **11일** · EAD 자동연장 폐지 **Day 7** · PERM 정지 **Day 12**. 🆕 American Quorum — 대법원 Iowa CVSG 해설. 🆕 SF Focal — 메가 마스터 심리 FOIA 소송.
-- **10/19 (월)**: 🆕 **USCIS TPS 우크라이나·수단 페이지 ‘보호·근로허가 유지’ 게시**(AP·Reuters·BAL). 🆕 **대법원 Bird v. Iowa Migrant Movement CVSG**. 🆕 **NAHB HMI 29**. 🆕 서울경제·코리아타임스 — **조선 비자 쿼터 요구**. 🆕 DOL — **Coway USA $800K** · **팁 FAB 2026-1** · Rapid Reskill $95.5M · MSHA $10.5M. 🆕 USCIS — 프로비던스 변호사 사기 유죄 인정·퀸시 위장결혼 기소. 🆕 DHS — ICE 갱단 131명. 🆕 Elwood–CoWorx 인수. 🆕 Breitbart·Beltway Report — Homan 발언 원문. 🆕 Construction Dive — JCHS 연구. 🆕 Mission Local — 메가 마스터 FOIA 소송(10/15 제소).
+- **10/19 (월)**: 🆕 **USCIS TPS 우크라이나·수단 페이지 ‘보호·근로허가 유지’ 게시**(AP·Reuters·BAL). 🆕 **대법원 Bird v. Iowa Migrant Movement CVSG**. 🆕 **NAHB HMI 29**. 🆕 서울경제·코리아타임스 — **조선 비자 쿼터 요구**. 🆕 DOL — **Coway USA $800K** · **팁 FAB 2026-1** · Rapid Reskill $95.5M · MSHA $10.5M. 🆕 USCIS — 프로비던스 변호사 사기 유죄 인정·퀸시 위장결혼 기소. 🆕 DHS — ICE 갱단 131명. 🆕 Elwood–CoWorx 인수. 🆕 Breitbart·Beltway Report — Homan 발언 원문. 🆕 Construction Dive — JCHS 연구. 🆕 Mission Local — 메가 마스터 FOIA 소송(10/15 제소). 🆕 **2순회 CLINIC 임시 결정**(정책 무효 유지 · 정책 기반 거부의 재심리 명령만 임시 stay).
 - **10/18 (일)**: DHS TPS 성명(CBS·NYT) · NYT 합법 이민 반토막 · Homan HSI 단속안(Fox) · 🆕 서울경제(10/19 06:30 KST) 조선 비자 첫 보도.
 - **10/17 (토)**: USCIS 사기 경고(TOI) · DV-2027 일정 수정 보도.
 - **10/16 (금)**: H.R. 1 FY27 수수료 발효 · 287(g) 2,688 · DHS FY2026 국경 통계 · DOL WORC $81.5M · WSJ 주택건설·단속 · Salem 성명 · H-2B COB 10/15.
@@ -306,6 +351,11 @@ H-2B 법정 한도 회계연도당 **66,000** (전반기·후반기 각 **33,000
 19. **H-2B/H-2A**: H2(2027년 1월 초) 대비 · 보충 배정 미발표 · 외식 H-2B 고용주는 팁 FAB 반영.
 20. **Staffing**: Elwood–CoWorx 등 산업 스태핑 통합 — 고객사 SLA에 **I-9·단속·EAD 공백·산재보험 증빙** 조항.
 21. **E-4 (Partner with Korea Act)**: 계류 — 단기 기대 금지.
+
+**KAG 시사점 — EB-3 비숙련(EW) 시장**
+1. **대기 기간 기대치**: EW FA 01JAN22 후퇴 · 경쟁사도 “3~5년”(Vanteo)·“2030년 입국”(SeaBreezee)으로 안내 — 신규 상담은 장기 일정을 기본값으로 안내하는 것이 시장 표준이 되는 중.
+2. **조지아 가금 정원**: Pilgrim’s 엘리제이 증설·워커 카운티 2027년 채용 — 조지아 가공 고용주에게 장기 근속형 EB-3 파이프라인을 제안할 시점.
+3. **해외 영사절차**: 75개국 정책 무효는 유지되나 재심리 명령은 임시 stay, 공관별 일정 조정 지속 — 브라질 등 해외 신청자 일정은 공관별 확인 후 안내.
 
 ---
 ## 출처 (Sources)
@@ -416,6 +466,28 @@ H-2B 법정 한도 회계연도당 **66,000** (전반기·후반기 각 **33,000
 - [Green Card Wait — November 2026 Visa Bulletin (not published yet)](https://www.greencardwait.com/visa-bulletin/november-2026/)
 - [DOS — U.S. Visas News](https://travel.state.gov/content/travel/en/News/visas-news.html)
 - [DOS — Expanded Screening and Vetting for Visa Applicants](https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-visa-applicants.html)
+
+### 경쟁·업계
+- [DOS — Visa Bulletin for October 2026](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-october-2026.html)
+- [USCIS — When to File: October 2026](https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-priority-dates/when-to-file-your-adjustment-of-status-application-for-family-sponsored-or-employment-based-129)
+- [Maki Law — CLINIC v. Rubio status (as of 2026-10-20)](https://makilawfirm.com/immigration-updates/75-country-visa-ban-clinic-v-rubio/)
+- [CB Immigration — Immigrant visa appointments rescheduled; Second Circuit update (2026-10-19)](https://www.cbimmigrationlaw.com/news/immigrant-visa-appointments-rescheduled)
+- [AILA — DOS Cable on the Vacatur of Immigrant Visa and Diversity Visa Issuance Pauses (26 STATE 88862, 2026-09-10)](https://www.aila.org/library/dos-cable-on-the-vacatur-of-immigrant-visa-and-diversity-visa-issuance-pauses)
+- [American Visa Guide — Both visa pauses vacated (reviewed 2026-10-16)](https://www.americanvisaguide.com/september-2026-update)
+- [BDV Solutions — Q3 2026 Newsletter](https://www.bdvsolutions.com/bdv-newsletter-q3-2026-edition)
+- [BDV Solutions — EB-3 Unskilled Pricing](https://www.bdvsolutions.com/eb-3-visa/unskilled-eb-3-visa-pricing)
+- [Vanteo — EB-3 Other Worker Visa Sponsorship (2026-09-24)](https://vanteo.com/vanteo-blog/eb-3-other-worker-visa)
+- [eb3.work — Services & Fees](https://eb3.work/services/)
+- [SeaBreezee — 316,000 Unfilled Warehouse and Logistics Jobs (2026-09-21)](https://www.seabreezee.com/post/316-000-unfilled-warehouse-and-logistics-jobs-in-2026-the-structural-fix-beyond-temp-labor)
+- [SeaBreezee — EB3 Visa Bulletin Update: October 2026](https://www.seabreezee.com/post/visa-bulletin-update-october-2026-is-out)
+- [Pilgrim’s Careers — Production Hourly, Douglas GA (posted 2026-10-01)](https://jobs.pilgrims.com/jobs/18300605-production-hourly)
+- [Pilgrim’s Careers — Hatchery Laborer, Canton GA](https://jobs.pilgrims.com/jobs/18304476-hatchery-laborer)
+- [Feedstuffs — Pilgrim’s investing $75M in Ellijay poultry facility](https://www.feedstuffs.com/agribusiness-news/pilgrim-s-investing-75m-in-ellijay-poultry-facility)
+- [Chattanooga Times Free Press — Pilgrim’s to close part of Chattanooga poultry operations (2026-06-16)](https://www.timesfreepress.com/news/2026/jun/16/pilgrims-to-close-part-of-chattanooga-poultry/)
+- [JBS Foods — Pilgrim’s Breaks Ground in Walker County, Georgia (2025-11-13)](https://jbsfoodsgroup.com/articles/pilgrim-s-breaks-ground-on-new-prepared-foods-facility-in-walker-county-georgia)
+- [LancasterOnline — Pa. ag industry lobbying USDA, Congress after Melhorn poultry worker arrests (2026-10-10)](https://lancasteronline.com/news/local/pa-ag-industry-lobbying-usda-congress-for-reform-after-melhorn-poultry-worker-arrests/article_e1426f0e-fc49-4d28-b131-da5e7894effc.html)
+- [FreightWaves — 45 Mexican truck drivers accuse US recruiter, carriers of forced-labor scheme (2026-09-24)](https://www.freightwaves.com/news/45-mexican-truck-drivers-accuse-us-recruiter-carriers-of-forced-labor-scheme)
+- [DOL OFLC — PERM Selected Statistics FY2025 Q4](https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/PERM_Selected_Statistics_FY2025_Q4.pdf)
 
 ---
 
